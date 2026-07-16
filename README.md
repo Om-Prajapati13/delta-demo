@@ -5,4 +5,4 @@ This is a demo for Git &amp; Github class.
 Om Prajapati
 
 # Student
-AI / Ml Student
+AI / ML Student
